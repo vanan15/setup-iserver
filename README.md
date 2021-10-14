@@ -1,2 +1,2 @@
 # setup-iserver
-Setup my home server
+Setup my home servers
