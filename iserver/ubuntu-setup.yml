@@ -8,4 +8,4 @@
         msg: Hello
 
   roles:
-    - install
+    - docker
